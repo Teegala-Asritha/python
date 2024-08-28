@@ -1,6 +1,7 @@
 Python Scripting
 ----------------
-1. Variables -> data types
+1. Variables 
+-> data types
 2. Conditions
 3. Loops
 4. Functions
